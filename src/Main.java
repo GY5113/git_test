@@ -16,6 +16,7 @@ public class Main {
         System.out.println("Hello git3!");
         System.out.println("Hello master!");
         System.out.println("Hello branch!");
+        System.out.println("push test!");
 
     }
 }
