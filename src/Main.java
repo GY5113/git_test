@@ -17,6 +17,7 @@ public class Main {
         System.out.println("Hello master!");
         System.out.println("Hello branch!");
         System.out.println("push test!");
+        System.out.println("pull test!");
 
     }
 }
